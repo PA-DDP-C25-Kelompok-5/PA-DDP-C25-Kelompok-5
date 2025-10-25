@@ -451,7 +451,7 @@ def regis():
     while True:
         clear()
         print("\n+====================================================================+")
-        print("|              Selamat Datang di Sistem Toko Perhiasan               |")
+        print("|           Selamat Datang di Sistem Management Apotek               |")
         print("+====================================================================+")
         print("|                            Menu Utama                              |")
         print("+====================================================================+")
