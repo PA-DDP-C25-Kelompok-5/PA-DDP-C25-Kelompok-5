@@ -14,4 +14,4 @@
 ### 👤 User
 ### 🔧 Admin
 ## Flowchart
-## Output Program
+## Penjelasan Output Program
