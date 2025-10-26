@@ -12,6 +12,7 @@ Program ini adalah Sistem Manajemen Apotek Sederhana yang dibuat menggunakan bah
 Role Admin dapat melakukan proses CRUD (Create, Read, Update, Delete) pada data obat. Sementara itu, User dapat melihat daftar obat dan melakukan transaksi pembelian dengan mudah.
 
 ### 🎯 Tujuan
+Program ini bertujuan untuk:
 - Membuat sistem sederhana untuk mengelola data obat di apotek.
 - Mempermudah pencatatan transaksi penjualan obat secara cepat dan akurat.
 - Memberikan akses berbeda antara Admin dan User.
@@ -21,50 +22,129 @@ Role Admin dapat melakukan proses CRUD (Create, Read, Update, Delete) pada data 
 Terdapat 4 library yang kami gunakan yaitu:
 1. **PrettyTable** Membuat tabel secara otomatis dan rapi untuk tampilan data yang lebih mudah dibaca.
 2. **os** Mengelola interaksi dengan sistem operasi, seperti membersihkan terminal dan manajemen file.
-3. **pwinput** Membuat password tidak langsung terlihat.
-4. **cvs** format penyimpanan data berbentuk tabel (baris dan kolom), di mana setiap nilai dipisahkan oleh tanda koma.
+3. **pwinput** Membuat password tidak langsung terlihat saat proses login.
+4. **csv** format penyimpanan data berbentuk tabel (baris dan kolom), di mana setiap nilai dipisahkan oleh tanda koma.
 ## ⚙️ Fitur
-### 👤 User
-Fitur yang tersedia untuk pengguna biasa atau user:
-1. **Melihat Daftar Obat**: Menampilkan Daftar Obat Yang tersedia.
-2. **Isi Saldo**: Menambah saldo E-Money untuk digunakan dalam transaksi.
-3. **Beli Obat**: Melakukan pembelian Obat dengan saldo E-Money.
-4. **Lihat Saldo**: Melihat Saldo yang tersia setelah melakukan transaksi atau setelah menambahkan E-Money saat isi saldo.
 ### 🔧 Admin
 Fitur Yang tersedia untuk Admin:
 1. **Menambahkan Obat**: Menambahkan Obat kedalam daftar obat.
 2. **Melihat Daftar Obat**: Melihat Daftar Obat dan Sekaligus melihat Obat yang Telah di tambahkan.
 3. **MengUpdet Daftar Obat**: Memperbarui informasi Daftar obat yang ada.
 4. **Menghapus Daftar Obat**: Menghapus Obat yang tidak Tersedia atau dijual lagi.
+### 👤 User
+Fitur yang tersedia untuk pengguna biasa atau user:
+1. **Melihat Daftar Obat**: Menampilkan Daftar Obat Yang tersedia.
+2. **Isi Saldo**: Menambah saldo E-Money untuk digunakan dalam transaksi.
+3. **Beli Obat**: Melakukan pembelian Obat dengan saldo E-Money.
+4. **Lihat Saldo**: Melihat Saldo yang tersia setelah melakukan transaksi atau setelah menambahkan E-Money saat isi saldo.
 ## Flowchart(Mba atau akbar tolong di isi ya)
 <details>
   <summary>1. Flowchart Menu Utama</summary>
-di isi di sini
+<img width="1305" height="1265" alt="Menu utama pa ddp drawio" src="https://github.com/user-attachments/assets/e13ef3c4-3528-4112-bb0d-657f02b4357b" />
 </details>
 
 <details>
-  <summary>2. Flowchart Login Admin</summary>
-di isi di sini
+  <summary>2. Flowchart Menu Admin</summary>
+<img width="1496" height="2121" alt="Menu admin pa ddp drawio" src="https://github.com/user-attachments/assets/f5b97230-db3b-4357-9001-a9611b542de4" />
 </details>
 
 <details>
-  <summary>3. Flowchart Menu Admin</summary>
-di isi di sini
-</details>
-
-<details>
-  <summary>4. Flowchart Login User</summary>
- di isi di sini 
-</details>
-
-<details>
-  <summary>5. Flowchart Menu User</summary>
-  di isi di sini
-</details>
-
-<details>
-  <summary>6. Flowchart Keluar Program</summary>
-  <img src="https://github.com/user-attachments/assets/da3118cf-2e52-4081-ac71-95105173ea86" alt="">
+  <summary>3. Flowchart Menu User</summary>
+<img width="915" height="1595" alt="Menu user pa ddp drawio" src="https://github.com/user-attachments/assets/7d5c9dc7-55b1-422d-94ac-b8e9ff1471e1" />
 </details>
 
 ## Penjelasan Output Program
+<details>
+<summary><h3>🏠Menu Utama</h3></summary>
+ssan
+penjelasan
+<details>
+
+<details>
+<summary><h3>🔑Menu Login</h3></summary>
+   
+### Login Admin
+ssan
+penjelasan
+
+ssan
+penjelasan
+
+### Login User
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+
+### Registrasi
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+
+### Keluar Program
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+</details>
+
+<details>
+<summary><h3>🔧Menu Admin</h3></summary>
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+
+### Lihat/Tampilkan Data Obat
+ssan 
+penjelasan
+
+### Tambah Obat
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+
+### Ubah/Perbarui Obat
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+
+### Hapus Obat
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+
+### Keluar dari Menu Admin
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+</details>
+
+<details>
+<summary><h3>👤Menu User</h3></summary>
+ssan 
+penjelasan
+
+### Lihat/Tampilkan Data Obat
+ssan 
+penjelasan
+
+ssan 
+penjelasan
+
+### Isi Saldo
+### Beli Obat
+### Lihat Saldo
