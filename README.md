@@ -253,3 +253,10 @@ User dapat menambah saldo dengan Batasan Minimal Rp10.000 dan Maksimal Rp5.000.0
 <img width="781" height="260" alt="image" src="https://github.com/user-attachments/assets/737af675-547b-4ec2-ad7d-336612bfb1c0" />
 
 Jika user ingin melihat jumlah saldonya, klik pilihan 4, maka akan ditampilkan terkait jumlah saldo user tersebut.
+
+### Beli Obat
+
+<img width="833" height="428" alt="image" src="https://github.com/user-attachments/assets/fda87ead-139a-49c1-80fe-93d783e4e7ba" />
+
+Jika user ingin membeli obat, klik pilihan 3, maka akan muncul tabel obat yang sudah tersusun rapi seperti ini berdasarkan ID, Nama, Harga, Jumlah, dan Tingkatannya.
+
