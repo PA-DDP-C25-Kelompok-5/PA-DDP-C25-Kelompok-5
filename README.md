@@ -29,7 +29,7 @@ Terdapat 4 library yang kami gunakan yaitu:
 Fitur Yang tersedia untuk Admin:
 1. **Menambahkan Obat**: Menambahkan Obat kedalam daftar obat.
 2. **Melihat Daftar Obat**: Melihat Daftar Obat dan Sekaligus melihat Obat yang Telah di tambahkan.
-3. **MengUpdet Daftar Obat**: Memperbarui informasi Daftar obat yang ada.
+3. **Memperbarui Daftar Obat**: Memperbarui informasi Daftar obat yang ada.
 4. **Menghapus Daftar Obat**: Menghapus Obat yang tidak Tersedia atau dijual lagi.
 ### 👤 User
 Fitur yang tersedia untuk pengguna biasa atau user:
