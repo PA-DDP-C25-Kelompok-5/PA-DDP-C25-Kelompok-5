@@ -238,8 +238,17 @@ Jika berhasil  maka akan menampilkan pesan diatas yang berarti produk sudah diha
 
 ### Lihat/Tampilkan Data Obat
 
+<img width="833" height="622" alt="image" src="https://github.com/user-attachments/assets/f136f0f2-7c95-444e-a88a-057b0dcc2c2e" />
+Menampilkan seluruh data obat dalam bentuk tabel rapi menggunakan PrettyTable. Tujuannya agar User dan Admin dapat melihat daftar obat yang tersedia beserta harganya dan stoknya.
+
 ### Isi Saldo
 
-### Beli Obat
+<img width="725" height="329" alt="image" src="https://github.com/user-attachments/assets/e1b1c1fe-c234-4171-b374-dee122c68d11" />
+
+User dapat menambah saldo dengan Batasan Minimal Rp10.000 dan Maksimal Rp5.000.000. Jika ingin menambahkan saldo klik pilihan 2 dan masukkan jumlah saldo yang ingin ditambahkan.
 
 ### Lihat Saldo
+
+<img width="781" height="260" alt="image" src="https://github.com/user-attachments/assets/737af675-547b-4ec2-ad7d-336612bfb1c0" />
+
+Jika user ingin melihat jumlah saldonya, klik pilihan 4, maka akan ditampilkan terkait jumlah saldo user tersebut.
