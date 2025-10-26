@@ -50,7 +50,7 @@ Fitur yang tersedia untuk pengguna biasa atau user:
 
 <details>
   <summary>3. Flowchart Menu User</summary>
-<img width="915" height="1595" alt="Menu user pa ddp drawio" src="https://github.com/user-attachments/assets/7d5c9dc7-55b1-422d-94ac-b8e9ff1471e1" />
+<img width="1002" height="1572" alt="Untitled Diagram-Menu user drawio" src="https://github.com/user-attachments/assets/d16cde2a-d0e1-4c42-8ffd-cf11be399eda" />
 </details>
 
 ## Penjelasan Output Program
