@@ -70,45 +70,41 @@ Tujuannya menjadi titik awal seluruh sistem dijalankan, menjadi pintu utama prog
 <summary><h3>🔑Menu Login</h3></summary>
    
 ### Login Admin
-ssan
-penjelasan
+<img width="806" height="535" alt="image" src="https://github.com/user-attachments/assets/135f7ff1-a608-4a6b-b938-65a974e8d08d" />
 
-ssan
-penjelasan
+yang hanya bisa diakses oleh Admin, berisi:
+1.	Tambah obat
+2.	Lihat obat
+3.	Update obat
+4.	Hapus obat
+5.	Keluar
 
 ### Login User
-ssan 
-penjelasan
+<img width="806" height="535" alt="image" src="https://github.com/user-attachments/assets/9ef44856-7f37-451d-893b-07dd9c25aa67" />
 
-ssan 
-penjelasan
+Mengecek apakah file akun.csv ada, minta input username & password, dan mencocokkan data dari file CSV. Jika cocok maka menampilkan role dan saldo user. Jika Admin maka masuk ke menu_admin(), jika User maka masuk ke menu_user(). Tujuannya sebagai gerbang masuk sistem bagi pengguna terdaftar.
 
 ### Registrasi
-ssan 
-penjelasan
 
-ssan 
-penjelasan
+<img width="828" height="564" alt="image" src="https://github.com/user-attachments/assets/8059b8f5-2ff5-4223-9b0b-f67f7dad3118" />
+
+Memanggil dtuser() agar file akun siap digunakan. Meminta username dan password dari pengguna baru. Mengecek panjang username/password agar sesuai aturan (username maksimal 10 karakter dan password minimal 8 karakter), dan mengecek apakah username sudah ada di CSV. Jika belum, menyimpan data baru ke file akun.csv dengan role default “User” dan saldo awal 0. Tujuannya menambahkan akun baru agar pengguna bisa login dan menggunakan sistem (tanpa register, user tidak bisa berinteraksi dengan sistem).
 
 ### Keluar Program
-ssan 
-penjelasan
-
-ssan 
-penjelasan
+<img width="676" height="310" alt="image" src="https://github.com/user-attachments/assets/c93d5136-fd38-48f4-8cd4-872e03f82a13" />
 </details>
 
 <details>
 <summary><h3>🔧Menu Admin</h3></summary>
-ssan 
-penjelasan
 
-ssan 
-penjelasan
-
-### Lihat/Tampilkan Data Obat
-ssan 
-penjelasan
+<img width="712" height="548" alt="image" src="https://github.com/user-attachments/assets/bf022b65-4e28-450d-a181-5ee82abfac85" />
+menu yang hanya bisa diakses oleh Admin, berisi:
+1.	Tambah obat
+2.	Lihat obat
+3.	Update obat
+4.	Hapus obat
+5.	Keluar
+Tujuannya sebagai panel manajemen data obat, agar Admin bisa mengatur stok dan harga dengan mudah. 
 
 ### Tambah Obat
 ssan 
@@ -145,12 +141,26 @@ ssan
 penjelasan
 
 ### Lihat/Tampilkan Data Obat
-ssan 
-penjelasan
 
-ssan 
-penjelasan
+<img width="833" height="428" alt="image" src="https://github.com/user-attachments/assets/7baa4385-2fb6-4b99-99ed-fd18c6943977" />
 
 ### Isi Saldo
+
+<img width="841" height="505" alt="image" src="https://github.com/user-attachments/assets/338a914f-1849-49f1-b7cc-9821101be73c" />
+<img width="841" height="211" alt="image" src="https://github.com/user-attachments/assets/f75cf853-8616-43ce-934b-85749b6dfe02" />
+
+User dapat menambah saldo dengan Batasan Minimal Rp10.000 dan Maksimal Rp5.000.000. 
+
 ### Beli Obat
+
+<img width="841" height="566" alt="image" src="https://github.com/user-attachments/assets/86250cd4-642c-4c8b-af86-4c213d77a028" />
+<img width="837" height="503" alt="image" src="https://github.com/user-attachments/assets/50683790-622a-4141-8640-2aa151dd78cb" />
+
+Menampilkan daftar obat, meminta ID obat & jumlah pembelian, mengecek stok dan saldo cukup atau tidak. Jika valid maka bisa mengurangi stok di stock.csv. dan mengurangi saldo user di akun.csv. Tujuannya sebagai fitur utama bagi User untuk melakukan transaksi pembelian obat menggunakan saldo mereka.
+
 ### Lihat Saldo
+
+<img width="835" height="216" alt="image" src="https://github.com/user-attachments/assets/5ca21749-2379-44d5-8680-be73adef266f" />
+
+Menampilkan saldo user saat ini. 
+
