@@ -1,0 +1,4 @@
+username,password,role,saldo
+kiwah,12345678,User,0
+admin,12345678,admin,0
+dwi,12345678,user,2000.0
