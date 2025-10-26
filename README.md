@@ -53,7 +53,33 @@ Fitur yang tersedia untuk pengguna biasa atau user:
 <img width="1002" height="1572" alt="Untitled Diagram-Menu user drawio" src="https://github.com/user-attachments/assets/1ae2d661-c46c-42dc-9e3a-44f03dd2751b" />
 </details>
 
-## Penjelasan Output Program
+## Output Program
+
+<img width="810" height="271" alt="image" src="https://github.com/user-attachments/assets/e4678a15-f070-410e-8c6c-ab4f1349c122" />
+Output Register
+
+<img width="744" height="154" alt="image" src="https://github.com/user-attachments/assets/443ca9ab-d38f-4cc8-9b3f-937704fabf2e" />
+<img width="744" height="253" alt="image" src="https://github.com/user-attachments/assets/003931ec-e01f-42cd-ba30-4b97e545bb62" />
+Output Login
+
+<img width="833" height="622" alt="image" src="https://github.com/user-attachments/assets/24524d0f-4b74-4a3d-b4aa-506137f4872b" />
+Output LIhat Daftar Obat
+
+<img width="833" height="428" alt="image" src="https://github.com/user-attachments/assets/16e915f1-9a8a-46a2-8f60-c4de247f1606" />
+Output Beli Obat
+
+<img width="744" height="253" alt="image" src="https://github.com/user-attachments/assets/0804dd0e-750a-4823-a3ab-1555d4ea144a" />
+Output Menu User
+
+<img width="678" height="224" alt="image" src="https://github.com/user-attachments/assets/c50be824-dbbb-40b0-84bc-5190e21f1be8" />
+Output Menu Utama (Regis)
+
+
+
+
+
+
+
 <details>
 <summary><h3>🏠Menu Utama</h3></summary>
 <img width="816" height="561" alt="image" src="https://github.com/user-attachments/assets/62bd5995-b62e-47dd-a4c3-d88c2863368f" />
