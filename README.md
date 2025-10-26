@@ -37,7 +37,7 @@ Fitur yang tersedia untuk pengguna biasa atau user:
 2. **Isi Saldo**: Menambah saldo E-Money untuk digunakan dalam transaksi.
 3. **Beli Obat**: Melakukan pembelian Obat dengan saldo E-Money.
 4. **Lihat Saldo**: Melihat Saldo yang tersia setelah melakukan transaksi atau setelah menambahkan E-Money saat isi saldo.
-## Flowchart(Mba atau akbar tolong di isi ya)
+## Flowchart
 <details>
   <summary>1. Flowchart Menu Utama</summary>
 <img width="1305" height="1265" alt="Menu utama pa ddp drawio" src="https://github.com/user-attachments/assets/e13ef3c4-3528-4112-bb0d-657f02b4357b" />
