@@ -235,28 +235,62 @@ Jika berhasil  maka akan menampilkan pesan diatas yang berarti produk sudah diha
 
 <details>
 <summary><h3>👤Menu User</h3></summary>
+<img width="538" height="136" alt="Screenshot 2025-10-26 223400" src="https://github.com/user-attachments/assets/bd2ca894-c4db-42b1-a1a9-8b926dbb85f1" />
+
+Username : Kiwah
+
+Password :12345678
+
+Jika benar, tekan enter untuk melanjutkan ke menu
+
+<img width="769" height="256" alt="Screenshot 2025-10-27 000825" src="https://github.com/user-attachments/assets/6fb84697-931a-4299-bbf4-e550f9b9b711" />
+
+Berikut tampilan Menu admin
 
 ### Lihat/Tampilkan Data Obat
 
-<img width="833" height="622" alt="image" src="https://github.com/user-attachments/assets/f136f0f2-7c95-444e-a88a-057b0dcc2c2e" />
+<img width="632" height="426" alt="Screenshot 2025-10-26 231620" src="https://github.com/user-attachments/assets/bf67c3b4-9c47-4c23-b2f0-a86e3ff265fd" />
 
-Menampilkan seluruh data obat dalam bentuk tabel rapi menggunakan PrettyTable. Tujuannya agar User dan Admin dapat melihat daftar obat yang tersedia beserta harganya dan stoknya.
+Jika nomor 1 yang diinput maka akan menampilkan apa saja Obat Yang tersedia dengan tabel yang rapi. Tekan enter untuk melanjutkan.
 
 ### Isi Saldo
 
-<img width="725" height="329" alt="image" src="https://github.com/user-attachments/assets/e1b1c1fe-c234-4171-b374-dee122c68d11" />
+<img width="501" height="27" alt="Screenshot 2025-10-27 001006" src="https://github.com/user-attachments/assets/9b9dc70c-ff39-4132-acb5-04a2dc351a64" />
 
-User dapat menambah saldo dengan Batasan Minimal Rp10.000 dan Maksimal Rp5.000.000. Jika ingin menambahkan saldo klik pilihan 2 dan masukkan jumlah saldo yang ingin ditambahkan.
+Jika nomor 2 yang diinput maka akan menampilkan Masukan jumlah saldo yang ingin ditambahkan.
 
-### Lihat Saldo
+<img width="721" height="183" alt="Screenshot 2025-10-27 001232" src="https://github.com/user-attachments/assets/9317049a-55da-4d15-bdbe-8ed650287143" />
 
-<img width="781" height="260" alt="image" src="https://github.com/user-attachments/assets/737af675-547b-4ec2-ad7d-336612bfb1c0" />
+jumlah saldo yang ingin ditambahkan tidak boleh dari Rp.5.000.000,jika masih memasukan maka akan menampilkan pesan diatas.
 
-Jika user ingin melihat jumlah saldonya, klik pilihan 4, maka akan ditampilkan terkait jumlah saldo user tersebut.
+<img width="712" height="120" alt="Screenshot 2025-10-27 001248" src="https://github.com/user-attachments/assets/97a654af-c396-4b01-939d-f98457f0029b" />
+
+Jika berhasil maka saldo akan otomatis tertambah,dan juga akan menampilkan pesan diatas
 
 ### Beli Obat
 
-<img width="833" height="428" alt="image" src="https://github.com/user-attachments/assets/fda87ead-139a-49c1-80fe-93d783e4e7ba" />
+<img width="536" height="51" alt="Screenshot 2025-10-27 001302" src="https://github.com/user-attachments/assets/57a0fb4c-c3d9-4ab2-861a-6f039bcba0a4" />
 
-Jika user ingin membeli obat, klik pilihan 3, maka akan muncul tabel obat yang sudah tersusun rapi seperti ini berdasarkan ID, Nama, Harga, Jumlah, dan Tingkatannya.
+Jika nomor 3 yang diinput maka akan menampilkan apa saja Obat yang ada. Masukkan ID Obat yang ingin dibeli yang sudah ditampilkan dalam tabel.
 
+<img width="745" height="134" alt="Screenshot 2025-10-27 001405" src="https://github.com/user-attachments/assets/5e9ea451-5a12-499c-869a-fa03a0668aba" />
+
+Apabila pengguna masukkan ID yang tidak ada di Daftar Obat, maka akan menampilkan pesan diatas
+
+<img width="517" height="25" alt="Screenshot 2025-10-27 001317" src="https://github.com/user-attachments/assets/320e44b5-1ad1-42bc-823e-3fb34f56612c" />
+
+Selanjutnya masukkan jumlah yang ingin dibeli.
+
+<img width="778" height="189" alt="Screenshot 2025-10-27 001331" src="https://github.com/user-attachments/assets/6a6d2b42-dd7e-4e6c-bd46-496185346cf3" />
+
+jumlah Obat Tidak Boleh Berupa huruf jika memasukan huruf makan otomatis program akan masuk ke menu user
+
+<img width="660" height="137" alt="Screenshot 2025-10-27 001434" src="https://github.com/user-attachments/assets/64cd46cd-13f6-4159-90ef-fc2448e373bc" />
+
+jika berhasil untuk pembelian akan menampilkan pesan diatas. dan otomatis memotong saldo user 
+
+### Lihat Saldo
+
+<img width="758" height="75" alt="Screenshot 2025-10-27 001455" src="https://github.com/user-attachments/assets/e9e3f694-740a-43f7-a193-919c10394c72" />
+
+Jika user ingin melihat jumlah saldo pilihan 4, maka akan ditampilkan terkait jumlah saldo user.
