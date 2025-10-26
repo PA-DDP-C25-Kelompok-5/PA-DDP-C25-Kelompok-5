@@ -36,5 +36,35 @@ Fitur Yang tersedia untuk Admin:
 2. **Melihat Daftar Obat**: Melihat Daftar Obat dan Sekaligus melihat Obat yang Telah di tambahkan.
 3. **MengUpdet Daftar Obat**: Memperbarui informasi Daftar obat yang ada.
 4. **Menghapus Daftar Obat**: Menghapus Obat yang tidak Tersedia atau dijual lagi.
-## Flowchart
+## Flowchart(Mba atau akbar tolong di isi ya)
+<details>
+  <summary>1. Flowchart Menu Utama</summary>
+di isi di sini
+</details>
+
+<details>
+  <summary>2. Flowchart Login Admin</summary>
+di isi di sini
+</details>
+
+<details>
+  <summary>3. Flowchart Menu Admin</summary>
+di isi di sini
+</details>
+
+<details>
+  <summary>4. Flowchart Login User</summary>
+ di isi di sini 
+</details>
+
+<details>
+  <summary>5. Flowchart Menu User</summary>
+  di isi di sini
+</details>
+
+<details>
+  <summary>6. Flowchart Keluar Program</summary>
+  <img src="https://github.com/user-attachments/assets/da3118cf-2e52-4081-ac71-95105173ea86" alt="">
+</details>
+
 ## Penjelasan Output Program
