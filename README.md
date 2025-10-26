@@ -239,6 +239,7 @@ Jika berhasil  maka akan menampilkan pesan diatas yang berarti produk sudah diha
 ### Lihat/Tampilkan Data Obat
 
 <img width="833" height="622" alt="image" src="https://github.com/user-attachments/assets/f136f0f2-7c95-444e-a88a-057b0dcc2c2e" />
+
 Menampilkan seluruh data obat dalam bentuk tabel rapi menggunakan PrettyTable. Tujuannya agar User dan Admin dapat melihat daftar obat yang tersedia beserta harganya dan stoknya.
 
 ### Isi Saldo
