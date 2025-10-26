@@ -20,23 +20,23 @@ Program ini bertujuan untuk:
 
 ## 📚 Library yang Digunakan
 Terdapat 4 library yang kami gunakan yaitu:
-1. **PrettyTable** Membuat tabel secara otomatis dan rapi untuk tampilan data yang lebih mudah dibaca.
-2. **os** Mengelola interaksi dengan sistem operasi, seperti membersihkan terminal dan manajemen file.
-3. **pwinput** Membuat password tidak langsung terlihat saat proses login.
-4. **csv** format penyimpanan data berbentuk tabel (baris dan kolom), di mana setiap nilai dipisahkan oleh tanda koma.
+1. *PrettyTable* Membuat tabel secara otomatis dan rapi untuk tampilan data yang lebih mudah dibaca.
+2. *os* Mengelola interaksi dengan sistem operasi, seperti membersihkan terminal dan manajemen file.
+3. *pwinput* Membuat password tidak langsung terlihat saat proses login.
+4. *csv* format penyimpanan data berbentuk tabel (baris dan kolom), di mana setiap nilai dipisahkan oleh tanda koma.
 ## ⚙️ Fitur
 ### 🔧 Admin
 Fitur Yang tersedia untuk Admin:
-1. **Menambahkan Obat**: Menambahkan Obat kedalam daftar obat.
-2. **Melihat Daftar Obat**: Melihat Daftar Obat dan Sekaligus melihat Obat yang Telah di tambahkan.
-3. **Memperbarui Daftar Obat**: Memperbarui informasi Daftar obat yang ada.
-4. **Menghapus Daftar Obat**: Menghapus Obat yang tidak Tersedia atau dijual lagi.
+1. *Menambahkan Obat*: Menambahkan Obat kedalam daftar obat.
+2. *Melihat Daftar Obat*: Melihat Daftar Obat dan Sekaligus melihat Obat yang Telah di tambahkan.
+3. *Memperbarui Daftar Obat*: Memperbarui informasi Daftar obat yang ada.
+4. *Menghapus Daftar Obat*: Menghapus Obat yang tidak Tersedia atau dijual lagi.
 ### 👤 User
 Fitur yang tersedia untuk pengguna biasa atau user:
-1. **Melihat Daftar Obat**: Menampilkan Daftar Obat Yang tersedia.
-2. **Isi Saldo**: Menambah saldo E-Money untuk digunakan dalam transaksi.
-3. **Beli Obat**: Melakukan pembelian Obat dengan saldo E-Money.
-4. **Lihat Saldo**: Melihat Saldo yang tersia setelah melakukan transaksi atau setelah menambahkan E-Money saat isi saldo.
+1. *Melihat Daftar Obat*: Menampilkan Daftar Obat Yang tersedia.
+2. *Isi Saldo*: Menambah saldo E-Money untuk digunakan dalam transaksi.
+3. *Beli Obat*: Melakukan pembelian Obat dengan saldo E-Money.
+4. *Lihat Saldo*: Melihat Saldo yang tersia setelah melakukan transaksi atau setelah menambahkan E-Money saat isi saldo.
 ## Flowchart
 <details>
   <summary>1. Flowchart Menu Utama</summary>
@@ -50,45 +50,15 @@ Fitur yang tersedia untuk pengguna biasa atau user:
 
 <details>
   <summary>3. Flowchart Menu User</summary>
-<img width="1002" height="1572" alt="Untitled Diagram-Menu user drawio" src="https://github.com/user-attachments/assets/1ae2d661-c46c-42dc-9e3a-44f03dd2751b" />
+<img width="915" height="1595" alt="Menu user pa ddp drawio" src="https://github.com/user-attachments/assets/7d5c9dc7-55b1-422d-94ac-b8e9ff1471e1" />
 </details>
 
-## Output Program
-
-<img width="810" height="271" alt="image" src="https://github.com/user-attachments/assets/e4678a15-f070-410e-8c6c-ab4f1349c122" />
-
-Output Register
-
-<img width="744" height="154" alt="image" src="https://github.com/user-attachments/assets/443ca9ab-d38f-4cc8-9b3f-937704fabf2e" />
-<img width="744" height="253" alt="image" src="https://github.com/user-attachments/assets/003931ec-e01f-42cd-ba30-4b97e545bb62" />
-
-Output Login
-
-<img width="833" height="622" alt="image" src="https://github.com/user-attachments/assets/24524d0f-4b74-4a3d-b4aa-506137f4872b" />
-
-Output LIhat Daftar Obat
-
-<img width="833" height="428" alt="image" src="https://github.com/user-attachments/assets/16e915f1-9a8a-46a2-8f60-c4de247f1606" />
-
-Output Beli Obat
-
-<img width="744" height="253" alt="image" src="https://github.com/user-attachments/assets/0804dd0e-750a-4823-a3ab-1555d4ea144a" />
-
-Output Menu User
-
-<img width="678" height="224" alt="image" src="https://github.com/user-attachments/assets/c50be824-dbbb-40b0-84bc-5190e21f1be8" />
-
-Output Menu Utama (Regis)
-
+## Penjelasan Output Program
 <details>
 <summary><h3>🏠Menu Utama</h3></summary>
-<img width="816" height="561" alt="image" src="https://github.com/user-attachments/assets/62bd5995-b62e-47dd-a4c3-d88c2863368f" />
+<img width="669" height="242" alt="Screenshot 2025-10-26 221114" src="https://github.com/user-attachments/assets/f4e3211b-3976-4432-959b-465eb85843fb" />
 
-Menu utama (regis), menampilan utama program. Tiga opsi utama:
-a.	Login
-b.	Registrasi
-c.	Keluar
-Tujuannya menjadi titik awal seluruh sistem dijalankan, menjadi pintu utama program dan menentukan alur pengguna: apakah dia ingin login, daftar, atau keluar.
+Tampilan yang pertama kali muncul saat menjalankan program adalah menu utama. Disini terdapat 3 pilihan yaitu Login, Registrasi dan Keluar.
 
 <details>
 
@@ -96,99 +66,180 @@ Tujuannya menjadi titik awal seluruh sistem dijalankan, menjadi pintu utama prog
 <summary><h3>🔑Menu Login</h3></summary>
    
 ### Login Admin
-<img width="806" height="535" alt="image" src="https://github.com/user-attachments/assets/135f7ff1-a608-4a6b-b938-65a974e8d08d" />
+<img width="593" height="118" alt="Screenshot 2025-10-26 221930" src="https://github.com/user-attachments/assets/36efdb7c-f4c2-4e8d-abca-07080f51e07e" />
 
-yang hanya bisa diakses oleh Admin, berisi:
-1.	Tambah obat
-2.	Lihat obat
-3.	Update obat
-4.	Hapus obat
-5.	Keluar
+Jika ingin masuk ke menu admin masukkan:
+
+username: admin
+
+password: 12345678
+
+Jika benar, tekan enter untuk melanjutkan ke menu.
+
+<img width="445" height="107" alt="Screenshot 2025-10-26 222218" src="https://github.com/user-attachments/assets/f1d4e365-1a50-4935-bf0b-3197b49d24f0" />
+
+jika ada kesalahan dalam memasukan username atau password maka harus mengisi ulang username atau password agar bisa masuk kedalam menu admin.
 
 ### Login User
-<img width="806" height="535" alt="image" src="https://github.com/user-attachments/assets/9ef44856-7f37-451d-893b-07dd9c25aa67" />
+<img width="538" height="136" alt="Screenshot 2025-10-26 223400" src="https://github.com/user-attachments/assets/bd2ca894-c4db-42b1-a1a9-8b926dbb85f1" />
 
-Mengecek apakah file akun.csv ada, minta input username & password, dan mencocokkan data dari file CSV. Jika cocok maka menampilkan role dan saldo user. Jika Admin maka masuk ke menu_admin(), jika User maka masuk ke menu_user(). Tujuannya sebagai gerbang masuk sistem bagi pengguna terdaftar.
+untuk login sebagai user sendiri kita di wajibkan register terlebih dahulu.
+
+contoh:
+
+Username : Kiwah
+
+Password :12345678
+
+Jika benar, tekan enter untuk melanjutkan ke menu
+
+<img width="563" height="121" alt="Screenshot 2025-10-26 223322" src="https://github.com/user-attachments/assets/21fe0eeb-3eb2-4915-a745-e52f508ae474" />
+
+jika ada kesalahan dalam memasukan username atau password maka harus mengisi ulang username atau password agar bisa masuk kedalam menu user.
 
 ### Registrasi
+<img width="506" height="56" alt="Screenshot 2025-10-26 223904" src="https://github.com/user-attachments/assets/641bd900-f4ca-4264-b537-67603bca6a2e" />
 
-<img width="828" height="564" alt="image" src="https://github.com/user-attachments/assets/8059b8f5-2ff5-4223-9b0b-f67f7dad3118" />
+Jika nomor 2 yang diinput di menu utama, maka akan di arahkan untuk registrasi telebih dahulu untuk membuat akun. Pertama masukkan nama akun yang ingin di registrasi.
 
-Memanggil dtuser() agar file akun siap digunakan. Meminta username dan password dari pengguna baru. Mengecek panjang username/password agar sesuai aturan (username maksimal 10 karakter dan password minimal 8 karakter), dan mengecek apakah username sudah ada di CSV. Jika belum, menyimpan data baru ke file akun.csv dengan role default “User” dan saldo awal 0. Tujuannya menambahkan akun baru agar pengguna bisa login dan menggunakan sistem (tanpa register, user tidak bisa berinteraksi dengan sistem).
+<img width="718" height="148" alt="Screenshot 2025-10-26 224104" src="https://github.com/user-attachments/assets/ef4449fa-f3d3-4fee-9eaf-6713bc87e863" />
+
+Username tidak boleh lebih dari 10 kata
+
+<img width="463" height="40" alt="Screenshot 2025-10-26 224213" src="https://github.com/user-attachments/assets/bd4878af-9c26-434e-9aa6-08b394eb701b" />
+
+Lalu masukkan password
+
+<img width="710" height="130" alt="Screenshot 2025-10-26 224137" src="https://github.com/user-attachments/assets/4aba6b49-6e74-4d5e-8e62-91271fb96e97" />
+
+untuk password sendiri tidak boleh kurang dari 8 kata.
+
+<img width="378" height="128" alt="Screenshot 2025-10-26 224253" src="https://github.com/user-attachments/assets/e795767e-f441-4c60-9b8d-9ec9548a35aa" />
+
+Jika berhasil maka akan muncul pesan di atas. Tekan enter untuk lanjut.
 
 ### Keluar Program
-<img width="676" height="310" alt="image" src="https://github.com/user-attachments/assets/c93d5136-fd38-48f4-8cd4-872e03f82a13" />
+<img width="676" height="89" alt="Screenshot 2025-10-26 224844" src="https://github.com/user-attachments/assets/f5710208-bece-452f-a8b4-aafeb3a9211b" />
+
+Jika nomor 3 yang di input di menu utama, maka program akan berhenti dan menampilkan pesan di atas.
+
 </details>
 
 <details>
 <summary><h3>🔧Menu Admin</h3></summary>
+<img width="593" height="118" alt="Screenshot 2025-10-26 221930" src="https://github.com/user-attachments/assets/4d39140f-1d5b-4c3e-be10-358f1eff66ac" />
 
-<img width="712" height="548" alt="image" src="https://github.com/user-attachments/assets/bf022b65-4e28-450d-a181-5ee82abfac85" />
-Menu yang hanya bisa diakses oleh Admin, berisi:
-1.	Tambah obat
-2.	Lihat obat
-3.	Update obat
-4.	Hapus obat
-5.	Keluar
-Tujuannya sebagai panel manajemen data obat, agar Admin bisa mengatur stok dan harga dengan mudah. 
+Jika ingin masuk ke menu admin masukkan:
+
+username: admin
+
+password: 12345678
+
+Jika benar, tekan enter untuk melanjutkan ke menu.
+
+<img width="688" height="250" alt="Screenshot 2025-10-26 230225" src="https://github.com/user-attachments/assets/f6b62653-a4fe-40e6-8b72-02b26aaad636" />
+
+Berikut tampilan Menu admin
 
 ### Tambah Obat
+<img width="540" height="36" alt="Screenshot 2025-10-26 225344" src="https://github.com/user-attachments/assets/4fd53736-7bba-4764-85ff-a210be12c777" />
 
-<img width="811" height="539" alt="image" src="https://github.com/user-attachments/assets/1f7d8de6-76c9-4589-bcb4-9aecdbb32052" />
-<img width="752" height="576" alt="image" src="https://github.com/user-attachments/assets/cc196ffc-ea13-464f-a951-ac9a520cc0f0" />
+Jika nomor 1 yang diinput maka akan masuk ke menu menambahkan Obat. Masukkan ID Obat.
 
-Hanya bisa diakses oleh Admin, menambah data obat baru ke stock.csv, mengecek agar ID obat unik, harga positif, jumlah tidak negatif, dan tingkatan hanya “biasa” atau “keras”. Tujuannya menambah stok obat baru dalam database apotek. Ini adalah fitur utama manajemen stok oleh Admin.
+<img width="715" height="207" alt="Screenshot 2025-10-26 225400" src="https://github.com/user-attachments/assets/48fd39f6-520a-45e1-8d63-628d59f91fba" />
+
+Jika ID telah terdaftar makan harus memilih ID Lain
+
+<img width="451" height="32" alt="Screenshot 2025-10-26 225429" src="https://github.com/user-attachments/assets/545240a5-ecc8-4fef-9f6d-a795a055eca0" />
+
+Lalu Masukan nama Obat yang ingin di tambahkan.
+
+<img width="753" height="210" alt="Screenshot 2025-10-26 225442" src="https://github.com/user-attachments/assets/47f11a3d-8c17-429f-af1e-96a5b986cd95" />
+
+Nama Obat tidak Boleh Kosong.
+
+<img width="452" height="29" alt="Screenshot 2025-10-26 225512" src="https://github.com/user-attachments/assets/49c2702c-1cd8-4009-9e02-ed52a000f4d1" />
+
+Jika nama Obat sudah diinput maka diarahkan untuk memasukkan harga Obat.
+
+<img width="730" height="193" alt="Screenshot 2025-10-26 225537" src="https://github.com/user-attachments/assets/13aa115d-633f-43b3-9453-055a53e7ada6" />
+
+Harga Obat Tidak Boleh Berupa huruf jika memasukan huruf makan otomatis program akan masuk ke menu admin
+
+<img width="467" height="39" alt="Screenshot 2025-10-26 225617" src="https://github.com/user-attachments/assets/251ce305-737d-4e6c-b1b7-38f99021c332" />
+
+Jika Harga obat sudah diinput Maka diarahkan untuk memasukan Stok Obat
+
+<img width="725" height="192" alt="Screenshot 2025-10-26 225633" src="https://github.com/user-attachments/assets/ea192b06-da11-4506-b959-b294f3e80ddf" />
+
+Stok Obat Tidak Boleh Berupa huruf jika memasukan huruf makan otomatis program akan masuk ke menu admin
+
+<img width="607" height="26" alt="Screenshot 2025-10-26 225659" src="https://github.com/user-attachments/assets/17d8f668-7e3b-421a-8716-4bf487681102" />
+
+Jika Stock obat sudah diinput Maka diarahkan untuk memasukan Tingkatan Obat Yaitu Biasa Atau Keras.
+
+<img width="733" height="182" alt="Screenshot 2025-10-26 225716" src="https://github.com/user-attachments/assets/b6d36e24-1df0-4aa9-a9ac-1041ef78cf24" />
+
+Jika memasukan selain pilihan maka akan otomatis program akan masuk ke menu admin
+
+<img width="731" height="284" alt="Screenshot 2025-10-26 225802" src="https://github.com/user-attachments/assets/61daa9ac-2628-49dc-bad6-34fa4aee645c" />
+
+Jika tingkatan obat telah di tambahkan maka Obat akan terdaftar.
+
+
+### Lihat Obat
+
+<img width="632" height="426" alt="Screenshot 2025-10-26 231620" src="https://github.com/user-attachments/assets/bf67c3b4-9c47-4c23-b2f0-a86e3ff265fd" />
+
+Jika nomor 2 yang diinput maka akan menampilkan apa saja Obat Yang tersedia dengan tabel yang rapi. Tekan enter untuk melanjutkan.
 
 ### Ubah/Perbarui Obat
+<img width="568" height="65" alt="Screenshot 2025-10-26 231635" src="https://github.com/user-attachments/assets/4e2e30f1-4383-4851-8e7b-2cc0f5e5a511" />
 
-<img width="837" height="382" alt="image" src="https://github.com/user-attachments/assets/2f510bbe-d8f0-4928-a684-3f8f9f1828c1" />
-<img width="819" height="395" alt="image" src="https://github.com/user-attachments/assets/a93f7623-dbe0-4670-b895-71dd6c982f85" />
-<img width="831" height="238" alt="image" src="https://github.com/user-attachments/assets/957f7b79-7bd5-4797-a54e-eb166f4c0470" />
+Jika nomor 3 yang diinput maka akan mengupdet atau menubah Data Obat,Masukan ID obat yang ingin di udah
 
-Admin dapat memperbarui data obat berdasarkan ID. Dapat mengubah: nama, harga, stok, dan tingkatan. Validasi input agar tidak salah memasukkan data. Tujuannya memungkinkan Admin memperbarui informasi obat tanpa harus menghapus dan menambah ulang.
+<img width="778" height="214" alt="Screenshot 2025-10-26 231701" src="https://github.com/user-attachments/assets/9e7982e7-e472-4917-ad0a-c22fa5e27210" />
+
+Apabila memasukkan ID Obat yang tidak ada, maka akan menampilkan pesan diatas
+
+<img width="550" height="25" alt="Screenshot 2025-10-26 231729" src="https://github.com/user-attachments/assets/d5ef8447-769d-434d-9555-5c2b49f47601" />
+
+Jika sudah memasukkan nama produk yang ingin di perbarui, lanjut memasukkan nama obat yang baru. Kosongkan jika tidak jadi mengubah.h.
+
+<img width="562" height="26" alt="Screenshot 2025-10-26 231734" src="https://github.com/user-attachments/assets/a6657253-0758-4043-8bf6-1388f7480a59" />
+
+lanjut memasukkan harga obat yang baru. Kosongkan jika tidak jadi mengubah.
+
+<img width="664" height="23" alt="Screenshot 2025-10-26 231741" src="https://github.com/user-attachments/assets/b69426b1-7ad4-4915-ba72-03a4bc2080a9" />
+
+lanjut memasukkan jumlah obat yang baru. Kosongkan jika tidak jadi mengubah.
+
+<img width="738" height="25" alt="Screenshot 2025-10-26 231751" src="https://github.com/user-attachments/assets/31cff1bd-df04-4519-ab20-663e04e89086" />
+
+lanjut memasukkan tingkatan obat yang baru. Kosongkan jika tidak jadi mengubah.
+
+<img width="762" height="294" alt="Screenshot 2025-10-26 231811" src="https://github.com/user-attachments/assets/98b3f835-f6ee-4d5f-91b0-c3ab553a718d" />
+
+Jika berhasil maka akan menampilkan pesan di atas. Tekan enter untuk lanjut.
 
 ### Hapus Obat
+<img width="471" height="52" alt="Screenshot 2025-10-26 232747" src="https://github.com/user-attachments/assets/3e64edc0-4c05-4912-8c8c-699dab374fc3" />
 
-<img width="826" height="553" alt="image" src="https://github.com/user-attachments/assets/4c11ac6a-5a68-4911-86d4-29ef52950632" />
+Jika nomor 4 yang diinput maka akan masuk ke menu menghapus produk. Masukkan ID Obat yang ingin dihapus
 
-Admin memasukkan ID obat yang ingin dihapus. Program menghapus baris data tersebut dari stock.csv. Tujuannya agar Admin dapat menghapus obat yang sudah tidak dijual atau datanya salah.
+<img width="468" height="163" alt="Screenshot 2025-10-26 232736" src="https://github.com/user-attachments/assets/67b2f98e-2fbe-4ec6-87d5-0d39909788f9" />
+
+Jika berhasil  maka akan menampilkan pesan diatas yang berarti produk sudah dihapus.
 
 </details>
 
 <details>
 <summary><h3>👤Menu User</h3></summary>
 
-<img width="812" height="690" alt="image" src="https://github.com/user-attachments/assets/194bb6ac-2b1a-44fd-b530-182505144671" />
-
-Menu yang muncul setelah user login:
-1.	Lihat daftar obat
-2.	Isi saldo
-3.	Beli obat
-4.	Lihat saldo
-5.	Keluar
-Setiap pilihan memanggil fungsi terkait di atas. Tujuannya memberikan antarmuka interaktif bagi pengguna biasa untuk melakukan transaksi.
-
-
 ### Lihat/Tampilkan Data Obat
-
-<img width="833" height="428" alt="image" src="https://github.com/user-attachments/assets/7baa4385-2fb6-4b99-99ed-fd18c6943977" />
 
 ### Isi Saldo
 
-<img width="841" height="505" alt="image" src="https://github.com/user-attachments/assets/338a914f-1849-49f1-b7cc-9821101be73c" />
-<img width="841" height="211" alt="image" src="https://github.com/user-attachments/assets/f75cf853-8616-43ce-934b-85749b6dfe02" />
-
-User dapat menambah saldo dengan Batasan Minimal Rp10.000 dan Maksimal Rp5.000.000. 
-
 ### Beli Obat
 
-<img width="841" height="566" alt="image" src="https://github.com/user-attachments/assets/86250cd4-642c-4c8b-af86-4c213d77a028" />
-<img width="837" height="503" alt="image" src="https://github.com/user-attachments/assets/50683790-622a-4141-8640-2aa151dd78cb" />
-
-Menampilkan daftar obat, meminta ID obat & jumlah pembelian, mengecek stok dan saldo cukup atau tidak. Jika valid maka bisa mengurangi stok di stock.csv. dan mengurangi saldo user di akun.csv. Tujuannya sebagai fitur utama bagi User untuk melakukan transaksi pembelian obat menggunakan saldo mereka.
-
 ### Lihat Saldo
-
-<img width="835" height="216" alt="image" src="https://github.com/user-attachments/assets/5ca21749-2379-44d5-8680-be73adef266f" />
-
-Menampilkan saldo user saat ini.
