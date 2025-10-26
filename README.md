@@ -18,8 +18,23 @@ Role Admin dapat melakukan proses CRUD (Create, Read, Update, Delete) pada data 
 - Menampilkan data obat dalam format tabel yang rapi dan mudah dibaca.
 
 ## 📚 Library yang Digunakan
+Terdapat 4 library yang kami gunakan yaitu:
+1. **PrettyTable** Membuat tabel secara otomatis dan rapi untuk tampilan data yang lebih mudah dibaca.
+2. **os** Mengelola interaksi dengan sistem operasi, seperti membersihkan terminal dan manajemen file.
+3. **pwinput** Membuat password tidak langsung terlihat.
+4. **cvs** format penyimpanan data berbentuk tabel (baris dan kolom), di mana setiap nilai dipisahkan oleh tanda koma.
 ## ⚙️ Fitur
 ### 👤 User
+Fitur yang tersedia untuk pengguna biasa atau user:
+1. **Melihat Daftar Obat**: Menampilkan Daftar Obat Yang tersedia.
+2. **Isi Saldo**: Menambah saldo E-Money untuk digunakan dalam transaksi.
+3. **Beli Obat**: Melakukan pembelian Obat dengan saldo E-Money.
+4. **Lihat Saldo**: Melihat Saldo yang tersia setelah melakukan transaksi atau setelah menambahkan E-Money saat isi saldo.
 ### 🔧 Admin
+Fitur Yang tersedia untuk Admin:
+1. **Menambahkan Obat**: Menambahkan Obat kedalam daftar obat.
+2. **Melihat Daftar Obat**: Melihat Daftar Obat dan Sekaligus melihat Obat yang Telah di tambahkan.
+3. **MengUpdet Daftar Obat**: Memperbarui informasi Daftar obat yang ada.
+4. **Menghapus Daftar Obat**: Menghapus Obat yang tidak Tersedia atau dijual lagi.
 ## Flowchart
 ## Penjelasan Output Program
