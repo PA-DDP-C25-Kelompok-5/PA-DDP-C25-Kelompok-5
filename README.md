@@ -50,7 +50,7 @@ Fitur yang tersedia untuk pengguna biasa atau user:
 
 <details>
   <summary>3. Flowchart Menu User</summary>
-<img width="1002" height="1572" alt="Untitled Diagram-Menu user drawio" src="https://github.com/user-attachments/assets/d16cde2a-d0e1-4c42-8ffd-cf11be399eda" />
+<img width="1002" height="1572" alt="Untitled Diagram-Menu user drawio" src="https://github.com/user-attachments/assets/1ae2d661-c46c-42dc-9e3a-44f03dd2751b" />
 </details>
 
 ## Penjelasan Output Program
@@ -98,7 +98,7 @@ Memanggil dtuser() agar file akun siap digunakan. Meminta username dan password 
 <summary><h3>🔧Menu Admin</h3></summary>
 
 <img width="712" height="548" alt="image" src="https://github.com/user-attachments/assets/bf022b65-4e28-450d-a181-5ee82abfac85" />
-menu yang hanya bisa diakses oleh Admin, berisi:
+Menu yang hanya bisa diakses oleh Admin, berisi:
 1.	Tambah obat
 2.	Lihat obat
 3.	Update obat
@@ -107,38 +107,41 @@ menu yang hanya bisa diakses oleh Admin, berisi:
 Tujuannya sebagai panel manajemen data obat, agar Admin bisa mengatur stok dan harga dengan mudah. 
 
 ### Tambah Obat
-ssan 
-penjelasan
 
-ssan 
-penjelasan
+<img width="811" height="539" alt="image" src="https://github.com/user-attachments/assets/1f7d8de6-76c9-4589-bcb4-9aecdbb32052" />
+<img width="752" height="576" alt="image" src="https://github.com/user-attachments/assets/cc196ffc-ea13-464f-a951-ac9a520cc0f0" />
+
+Hanya bisa diakses oleh Admin, menambah data obat baru ke stock.csv, mengecek agar ID obat unik, harga positif, jumlah tidak negatif, dan tingkatan hanya “biasa” atau “keras”. Tujuannya menambah stok obat baru dalam database apotek. Ini adalah fitur utama manajemen stok oleh Admin.
 
 ### Ubah/Perbarui Obat
-ssan 
-penjelasan
 
-ssan 
-penjelasan
+<img width="837" height="382" alt="image" src="https://github.com/user-attachments/assets/2f510bbe-d8f0-4928-a684-3f8f9f1828c1" />
+<img width="819" height="395" alt="image" src="https://github.com/user-attachments/assets/a93f7623-dbe0-4670-b895-71dd6c982f85" />
+<img width="831" height="238" alt="image" src="https://github.com/user-attachments/assets/957f7b79-7bd5-4797-a54e-eb166f4c0470" />
+
+Admin dapat memperbarui data obat berdasarkan ID. Dapat mengubah: nama, harga, stok, dan tingkatan. Validasi input agar tidak salah memasukkan data. Tujuannya memungkinkan Admin memperbarui informasi obat tanpa harus menghapus dan menambah ulang.
 
 ### Hapus Obat
-ssan 
-penjelasan
 
-ssan 
-penjelasan
+<img width="826" height="553" alt="image" src="https://github.com/user-attachments/assets/4c11ac6a-5a68-4911-86d4-29ef52950632" />
 
-### Keluar dari Menu Admin
-ssan 
-penjelasan
+Admin memasukkan ID obat yang ingin dihapus. Program menghapus baris data tersebut dari stock.csv. Tujuannya agar Admin dapat menghapus obat yang sudah tidak dijual atau datanya salah.
 
-ssan 
-penjelasan
 </details>
 
 <details>
 <summary><h3>👤Menu User</h3></summary>
-ssan 
-penjelasan
+
+<img width="812" height="690" alt="image" src="https://github.com/user-attachments/assets/194bb6ac-2b1a-44fd-b530-182505144671" />
+
+Menu yang muncul setelah user login:
+1.	Lihat daftar obat
+2.	Isi saldo
+3.	Beli obat
+4.	Lihat saldo
+5.	Keluar
+Setiap pilihan memanggil fungsi terkait di atas. Tujuannya memberikan antarmuka interaktif bagi pengguna biasa untuk melakukan transaksi.
+
 
 ### Lihat/Tampilkan Data Obat
 
@@ -162,5 +165,4 @@ Menampilkan daftar obat, meminta ID obat & jumlah pembelian, mengecek stok dan s
 
 <img width="835" height="216" alt="image" src="https://github.com/user-attachments/assets/5ca21749-2379-44d5-8680-be73adef266f" />
 
-Menampilkan saldo user saat ini. 
-
+Menampilkan saldo user saat ini.
