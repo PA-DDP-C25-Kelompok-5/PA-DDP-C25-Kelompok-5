@@ -56,7 +56,8 @@ Fitur yang tersedia untuk pengguna biasa atau user:
 ## Penjelasan Output Program
 <details>
 <summary><h3>🏠Menu Utama</h3></summary>
-ssan
+<img width="816" height="561" alt="image" src="https://github.com/user-attachments/assets/62bd5995-b62e-47dd-a4c3-d88c2863368f" />
+
 penjelasan
 <details>
 
